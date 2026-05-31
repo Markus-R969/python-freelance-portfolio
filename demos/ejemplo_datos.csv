@@ -1,0 +1,5 @@
+﻿Producto,Precio,Moneda,Disponibilidad,URL,Fecha_Extraccion
+"Auriculares Bluetooth XYZ",29.99,EUR,"En stock",https://ejemplo.com/producto1,2026-06-01
+"Teclado Mecánico RGB",89.50,EUR,"Últimas unidades",https://ejemplo.com/producto2,2026-06-01
+"Monitor 27\" 4K",349.00,EUR,"En stock",https://ejemplo.com/producto3,2026-06-01
+"Ratón Inalámbrico",24.90,EUR,"Agotado",https://ejemplo.com/producto4,2026-06-01
