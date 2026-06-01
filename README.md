@@ -17,6 +17,7 @@
 | 💼 [Job Scraper](https://github.com/Markus-R969/job-scraper-playwright) | Playwright + ETL | Extraer ofertas de portales de empleo | 65€ |
 | 🔌 [API Scraper v3](https://github.com/Markus-R969/api-scraper-rest) | REST API + tenacity | Conectar con APIs oficiales | 55€ |
 | 🛍️ [eBay Integration](https://github.com/Markus-R969/ebay-api-integration) | eBay Browse API + OAuth2 | Marketplace oficial con Excel | 75€ |
+| 🔄 [Wallapop Automator](https://github.com/Markus-R969/wallapop-price-automator) | Playwright + Firefox | Actualización masiva de precios en catálogos | 85€ |
 
 ---
 
@@ -25,7 +26,7 @@
 ✅ **Entrega en 24-48h**  
 ✅ **Código limpio y documentado** (tuyo para siempre)  
 ✅ **Excel/CSV listo para usar** con filtros y formato profesional  
-✅ **Configuración sencilla** vía `.env` (sin tocar código)  
+✅ **Configuración sencilla** vía `.env` o prompts interactivos  
 ✅ **Soporte post-entrega** (7 días incluidos)  
 ✅ **100% local** (sin suscripciones ni servicios de terceros)
 
@@ -48,6 +49,10 @@
 ### 🛍️ eBay Integration
 > *"Extraemos productos de eBay con precios formateados en € y filtros por vendedor. Listo para importar a nuestro ERP."*  
 > → [Ver demo en GitHub](https://github.com/Markus-R969/ebay-api-integration)
+
+### 🔄 Wallapop Automator
+> *"Actualizamos +200 precios de nuestro catálogo en Wallapop en menos de 15 minutos. Antes nos llevaba 2 horas manuales."*  
+> → [Ver demo en GitHub](https://github.com/Markus-R969/wallapop-price-automator)
 
 ---
 
@@ -85,9 +90,9 @@ Sí: PayPal, Wise, Transferencia SEPA o cripto (USDT).
 ## 📩 ¿Listo para empezar?
 
 Escríbeme ahora con:
-1. URL o portal que quieres scrapear
+1. URL o portal que quieres scrapear/automatizar
 2. Datos exactos que necesitas (título, precio, descripción, etc.)
-3. Formato de salida preferido (Excel, CSV, SQLite)
+3. Formato de salida preferido (Excel, CSV, SQLite, o actualización directa)
 
 📧 [mark.markuslab@gmail.com](mailto:mark.markuslab@gmail.com)  
 ⏱️ *Respondo en menos de 24h*
